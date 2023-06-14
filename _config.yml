@@ -25,7 +25,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Shlhn # add your name
-author-pic: -.jpg
+author-pic: a.jpg
 about-author: I Map
 
 # Contact links
@@ -34,8 +34,8 @@ phone: # Add your Phone number
 website: writing-above.space # Add your website
 linkedin: muhammad-shulhan-jihadi-809603209 # Add your Linkedin handle
 github: BukanMedium # Add your Github handle
-twitter: '-' # Add your Twitter handle
-bandcamp: - # Add your Bandcamp username
+twitter: '0000' # Add your Twitter handle
+bandcamp: 0000 # Add your Bandcamp username
 stackoverflow: - # Add your stackoverflow account
 
 # Newsletter
@@ -43,7 +43,7 @@ mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6
 
 # Tracker
 analytics: G-5R8SMWYL4R
-fbadmin: -
+fbadmin: 0000
 
 # Paginate
 paginate: 6
