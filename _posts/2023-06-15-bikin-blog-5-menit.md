@@ -2,8 +2,8 @@
 layout: post
 read_time: true
 show_date: true
-title:  Bikin Blog 5 Menit
-date:   2023-06-15 12:32:20 -0600
+title: Bikin Blog 5 Menit
+date: 2023-06-15 12:32:20 -0600
 description: How to easily create a personal website
 img: posts/20230615/Jekyll.png 
 tags: [Tutorial, References]
@@ -21,5 +21,5 @@ Buat personal website/blog 5 menit menggunakan Jekyll
 6. Klik setting>pages>buid and deployment>source>deploy from branch>branch>main
 7. Kalo udah, refresh. Nanti ada tulisan, your site is live at "nama website". 
 8. Dah jadi
-9. Buat bikin post, tinggal edit file di folder _posts, liat aja panduannya biasanya ada
+9. Buat bikin post, tinggal edit file di folder '_posts', liat aja panduannya biasanya ada
 8. Sebenernya bisa customisasi domain, tapi harus beli domainnya dulu. Untuk ini ntar kapan-kapan lah, gampang juga 10 menit selesai.
