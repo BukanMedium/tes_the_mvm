@@ -18,7 +18,7 @@ logo-icon-SEO: "/assets/img/branding/Tyrell White.png" # must be a non SVG file
 # visit (session). Only the dark mode setting is "manual",
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
-night_mode: "dark"
+night_mode: "on"
 
 logo-dark: "/assets/img/branding/Tyrell GLOW 3.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
