@@ -3,7 +3,7 @@ title: Writing Above Space
 description: 'Writing Above Space and Time' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://writing-above.space" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/Tyrell White.png"
 logo-icon: "/assets/img/branding/Tyrell White.png"
 logo-icon-SEO: "/assets/img/branding/Tyrell White.png" # must be a non SVG file
@@ -46,7 +46,7 @@ analytics: G-5R8SMWYL4R
 fbadmin: 0000
 
 # Paginate
-paginate: 6
+paginate: 4
 paginate_path: 'page:num'
 words_per_minute: 200
 
