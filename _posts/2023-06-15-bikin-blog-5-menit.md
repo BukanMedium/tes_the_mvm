@@ -6,7 +6,7 @@ title: Bikin Blog 5 Menit
 date: 2023-06-15 12:32:20 -0600
 description: How to easily create a personal website
 img: posts/20230615/Jekyll.png 
-tags: [Tutorial, References]
+tags: [tutorial, references]
 author: Shulhan
 github: 0
 ---
