@@ -5,7 +5,7 @@ show_date: true
 title:  Bikin Blog 5 Menit
 date:   2023-06-15 12:32:20 -0600
 description: References of things that caught my attention.
-img: References.jpg 
+img: posts/20230615/References.jpg 
 tags: [Tutorial, References]
 author: Shulhan
 github: 0
