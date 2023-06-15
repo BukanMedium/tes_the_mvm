@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title:  Bikin Blog 5 Menit
 date:   2023-06-15 12:32:20 -0600
-description: References of things that caught my attention.
+description: How to easily create a personal website
 img: posts/20230615/Jekyll.png 
 tags: [Tutorial, References]
 author: Shulhan
 github: 0
 ---
 
-Buat personal website/blog 5 menit jadi pake Jekyll
+Buat personal website/blog 5 menit menggunakan Jekyll
 
 1. Buat akun github
 2. Search "Jekyll theme", cari yg cocok. Biasanya tiap tema ada penjelasannya dan bisa dicoba dulu sebelum dipake, tinggal klik "preview" / "demo"
