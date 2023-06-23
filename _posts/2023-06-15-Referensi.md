@@ -28,7 +28,6 @@ Berikut beberapa link penting yang bisa dimanfaatkan
 | 10  | [Cari data kemunculan spesies](https://mapper.obis.org/)                                                | Untuk cari data kemunculan spesies                                                                                        |
 | 11  | [Kumpulan tutorial pemodelan ekologi](https://sites.google.com/site/thebantalab/tutorials?pli=1)         | Kumpulan tutorial pemodelan ekologi                                                                                       |
 | 12  | [Cari data kemunculan spesies #2](https://www.gbif.org/occurrence/map)                                  | Untuk cari data kemunculan spesies                                                                                        |
-
 | 13   | [COMCOT gfortran](https://github.com/AndybnACT/comcot-gfortran)                                                    | COMCOT gfortran                      |
 | 14   | [COMCOT GPU](https://github.com/AndybnACT/GPU-comcot)                                                               | GPU-comcot offloads the computational component on the outermost layer of COMCOT to Nvidia GPU. Currently, the speed up achieved by parallelized code on GTX-1060 comparing to serial one on AMD-FX8150 is nearly 200X. The code is still under development to fulfill the full functionality of the original model. |
 | 15   | [Earth Engine Resources](https://github.com/giswqs/Awesome-GEE)                                                     | A curated list of Google Earth Engine resources |
