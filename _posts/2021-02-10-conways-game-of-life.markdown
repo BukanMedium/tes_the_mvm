@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 read_time: true
 show_date: true
 title:  Conway's Game of Life 
