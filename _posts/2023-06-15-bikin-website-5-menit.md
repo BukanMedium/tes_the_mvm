@@ -10,8 +10,8 @@ tags: [tutorial, references]
 author: Shulhan
 github: 0
 ---
-
-Buat personal website/blog 5 menit menggunakan Jekyll
+Sebenernya di SSO ada sih, tinggal daftar, klik kilk kilk jadi. Tapi nanti alamatnya ada undip.ac.id-nya
+Kalo mau pake github bisa juga, pake Jekyll
 
 1. Buat akun github
 2. Search "Jekyll theme", cari yg cocok. Biasanya tiap tema ada penjelasannya dan bisa dicoba dulu sebelum dipake, tinggal klik "preview" / "demo"
