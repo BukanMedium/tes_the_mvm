@@ -38,7 +38,7 @@ Here's a revised version of the table with the provided information:
 | 16  | [Archivelago Indonesia Marine Library](http://kkp.go.id/)                      | Marine Library KKP                                                       |
 | 17  | [JDIH KKP](https://kkp.go.id/jdih/)                                  | Jaringan Dokumentasi Hukum KKP                                            |
 | 19  | [FishBase](https://www.fishbase.de/)                                 | Fish Base                                                                |
-| 20  | [Peta Geologi Indo](https://geoportal.esdm.go.id                                                       | Peta Geologi Indo                     |
+| 20  | [Peta Geologi Indo](https://geoportal.esdm.go.id)                                                       | Peta Geologi Indo                     |
 | 21 | [Marine Copernicus Data Visualization](https://help.marine.copernicus.eu/en/articles/4792430-how-to-open-and-visualize-netcdf-files) | Marine Copernicus Data Visualization                                                                                        |
 | 22 | [Home Page Syncrosim](https://syncrosim.com/)     | Alat untuk pemodelan ekologi pake metode State and Transition Simulation Model            |
 | 23 | [Homepage dari Wallace](https://wallaceecomod.github.io/)    | Alat untuk pemodelan ekologi berbasis R, bisa menggunakan berbagai metode, bisa dipilih, dan recommended untuk yang mau belajar |
