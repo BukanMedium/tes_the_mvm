@@ -10,7 +10,11 @@ tags: [tutorial, references]
 author: Shulhan
 github: 0
 ---
-Sebenernya di SSO ada sih, tinggal daftar, klik kilk kilk jadi. Tapi nanti alamatnya ada undip.ac.id-nya
+
+
+Sebenernya di SSO ada sih, tinggal daftar, klik kilk kilk jadi. 
+Tapi nanti alamatnya ada undip.ac.id-nya.
+
 Kalo mau pake github bisa juga, pake Jekyll
 
 1. Buat akun github
