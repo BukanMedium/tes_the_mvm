@@ -49,7 +49,7 @@ Here's a revised version of the table with the provided information:
 
 List of books that I used as references in many of the practicum. Kenapa buku? karena lebih enak, 1 buku bisa digunakan beberapa kali. Bahkan ada yg lengkap skali sampai asisten bosen liatnya. Tapi bisanya buku-buku ini bahasa inggris, susah cari pdf buku Indonesia
 
-##Sediment, Geology
+## Sediment, Geology
 1. Boggs, S. J. 2006. Principles of Sedimentology and Stratigraphy: Fourth Edition. Pearsin Education Inc., USA. 676 hlm. 
 2. Boyd, C. E. 1995. Bottom Soils, Sediment and Pond Aquaculture. Springer, USA. 384 hlm
 3. Nichols, G. 2009. Sedimentology and Statigraphy: Second Edition. Wiley-Blackwell, UK. 432 hlm
@@ -62,7 +62,7 @@ List of books that I used as references in many of the practicum. Kenapa buku? k
 	
 	
 	
-##Physics, Hydrodynamics
+## Physics, Hydrodynamics
 1. Giancoli, D.C. 2014. Physics Principles With Application. Pearson 
 2. Raju, K. S. N. 2011. Fluid mechanics, heat transfer, and mass transfer: chemical engineering practice. John Wiley & Sons Inc: Singapore 
 3. Wendt, J.f. 2009. Computational Fluid Dynamics, 3rd ed., Springer-Verlag Berlin Heidelberg
@@ -73,7 +73,7 @@ List of books that I used as references in many of the practicum. Kenapa buku? k
 	
 	
 	
-##Oceanography
+## Oceanography
 1. Pinet, Paul R. 2009. Invitation to Oceanography Fifth Edition. Jones and Barnett Publisher:Boston
 2. Trujillo, Alan P., Thurman, Harold V. 2011. Essential of Oceanography 10th Edition. Prentice Hall: Boston.
 3. Pickard, G. L., & Emery, W. J. 2016. Descriptive physical oceanography: an introduction. Elsevier.
@@ -85,7 +85,7 @@ List of books that I used as references in many of the practicum. Kenapa buku? k
 	
 	
 	
-##Coastal Engineering
+## Coastal Engineering
 1. Triatmojo, Bambang. 1999. Teknik Pantai. Yogyakarta: Beta Offset
 2. Reeve, Dominic., Chadwick, A., Fleming, C. 2018. Coastal engineering. Boca Raton : Taylor & Francis, CRC Press.
 3. Kim, Young C. 2010. Handbook Of Coastal And Ocean Engineering. Singapore: World Scientific Publishing Co. Pte. Ltd
