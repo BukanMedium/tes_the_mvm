@@ -10,5 +10,13 @@ tags: [References, List, Books, Research]
 author: Shulhan
 github: 0
 ---
-
-tes
+Berikut beberapa link penting yang bisa dimanfaatkan
++----+------------------------------------------------------------------+--------------------------------------------------+
+| No | Link                                                             | Keterangan                                       |
++----+------------------------------------------------------------------+--------------------------------------------------+
+| 1  | (https://docs.circuitscape.org/Omniscape.jl/stable/)     | Home Page dari Omniscape                         |
+| 2  | (https://circuitscape.org/)                   | Home Page dari Circuitscape                      |
+| 3  | (https://biodiversityinformatics.amnh.org/open_source/maxent/)    | Home Page dari MaxEnt                            |
+| 4  | (https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset) | Home Page NASA's ARSET                           |
+| 5  | (https://giovanni.gsfc.nasa.gov/giovanni/)                        | NASA's GIOVANNI, untuk visualisasi data satelitnya NASA. Bisa bikin mean klimatologi dari sini, bisa jadi alternatif kalo lagi males |
++----+------------------------------------------------------------------+--------------------------------------------------+
