@@ -16,27 +16,35 @@ Selama saya kuliah tentu saja banyak cari referensi, bahan, atau sekedar informa
 Ini adalah beberapa yang sempat saya simpan, dan daripada mengendap, apa ruginya kalo dishare?
 Berikut beberapa link penting yang bisa dimanfaatkan
 
-| No | Link                                                                 | Keterangan                                                       |
-|----|----------------------------------------------------------------------|------------------------------------------------------------------|
-| 1  | [Omniscape](https://docs.circuitscape.org/Omniscape.jl/stable/)     | Home Page dari Omniscape                                         |
-| 2  | [Circuitscape](https://circuitscape.org/)                   | Home Page dari Circuitscape                                      |
-| 3  | [MaxEnt](https://biodiversityinformatics.amnh.org/open_source/maxent/)    | Home Page dari MaxEnt                                            |
-| 4  | [NASA's ARSET](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset) | Home Page NASA's ARSET                                           |
-| 5  | [NASA's GIOVANNI](https://giovanni.gsfc.nasa.gov/giovanni/)                        | NASA's GIOVANNI, untuk visualisasi data satelitnya NASA. Bisa bikin mean klimatologi dari sini, bisa jadi alternatif kalo lagi males |
-| 6   | [Explore data sentinel](https://apps.sentinel-hub.com/eo-browser/)                                      | Untuk explore data sentinel, bisa sekalian visualisasi juga |
-| 7   | [Download data geomorfologi laut](https://bluehabitats.org/)                                            | Untuk download data geomorfologi laut         |
-| 8   | [Download data bathymetry](https://download.gebco.net/)                                                 | Untuk download data bathymetry selain dari batnas   |
-| 9   | [Download data parameter ose](https://data.marine.copernicus.eu/viewer/expert?)        | Untuk download data parameter ose, hampir sama kaya GIOVANNI       |
-| 10  | [Cari data kemunculan spesies](https://mapper.obis.org/)                                                | Untuk cari data kemunculan spesies   |
-| 11  | [Kumpulan tutorial pemodelan ekologi](https://sites.google.com/site/thebantalab/tutorials?pli=1)         | Kumpulan tutorial pemodelan ekologi   |
-| 12  | [Cari data kemunculan spesies #2](https://www.gbif.org/occurrence/map)                                  | Untuk cari data kemunculan spesies       |
-| 13   | [COMCOT gfortran](https://github.com/AndybnACT/comcot-gfortran)                                                    | COMCOT gfortran                      |
-| 14   | [COMCOT GPU](https://github.com/AndybnACT/GPU-comcot)                                                               | GPU-comcot offloads the computational component on the outermost layer of COMCOT to Nvidia GPU. Currently, the speed up achieved by parallelized code on GTX-1060 comparing to serial one on AMD-FX8150 is nearly 200X. The code is still under development to fulfill the full functionality of the original model. |
-| 15   | [Earth Engine Resources](https://github.com/giswqs/Awesome-GEE)     | A curated list of Google Earth Engine resources |
-| 16   | [Marine Library KKP](https://archivelago.kkp.go.id/)     | Online Public Access Catalogue Archivelago Indonesia Marine Library |
-| 17   | [Jaringan Dokumentasi Hukum KKP](https://jdih.kkp.go.id/)                                                            | Jaringan Dokumentasi Hukum KKP        |
-| 18   | [Fish Base](https://www.fishbase.de/)                                                                               | Fish Base                            |
-| 19   | [Peta Geologi Indo](https://geoportal.esdm.go.id/geologi/)                                                          | Peta Geologi Indo                     |
+Here's a revised version of the table with the provided information:
+
+| No  | Link                                                           | Keterangan                                                             |
+| --- | -------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 1   | [Home Page dari Omniscape](https://docs.circuitscape.org/Omniscape.jl/stable/)              | Home Page dari Omniscape                                     |
+| 2   | [Home Page dari Circuitscape](https://circuitscape.org/)                    | Home Page dari Circuitscape                                             |
+| 3   | [Home Page dari MaxEnt](https://biodiversityinformatics.amnh.org/open_source/maxent/)          | Home Page dari MaxEnt                                        |
+| 4   | [Home Page NASA's ARSET](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset) | Home Page NASA's ARSET                                        |
+| 5   | [NASA's GIOVANNI](https://giovanni.gsfc.nasa.gov/giovanni/)                             | NASA's GIOVANNI, untuk visualisasi data satelitnya NASA. Bisa bikin mean klimatologi dari sini, bisa jadi alternatif kalo lagi males. Masalahnya kalo harus analisis yang lain, misal bikin standar deviasi klimatologi, gabisa pake ini. Harus ngolah sendiri |
+| 6   | [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/)                   | Untuk explore data sentinel, bisa sekalian visualisasi juga          |
+| 7   | [Blue Habitats](https://bluehabitats.org/)                                 | Untuk download data geomorfologi laut                                     |
+| 8   | [Gebco](https://download.gebco.net/)                                      | Untuk download data bathymetry selain dari batnas                         |
+| 9   | [Marine Copernicus Data Viewer](https://data.marine.copernicus.eu/viewer/expert?)              | Untuk download data parameter ose, hampir sama kaya GIOVANN  |
+| 10  | [OBIS Mapper](https://mapper.obis.org/)                                 | Untuk cari data kemunculan spesies                                        |
+| 11  | [The Banta Lab Tutorials](https://sites.google.com/site/thebantalab/tutorials?pli=1)     | Kumpulan tutorial pemodelan ekologi                                |
+| 12  | [GBIF Occurrence Map](https://www.gbif.org/occurrence/map)                        | Untuk cari data kemunculan spesies #2                                     |
+| 13  | [COMCOT gfortran](https://github.com/AndybnACT/comcot-gfortran)             | COMCOT gfortran                                                         |
+| 14  | [COMCOT GPU](https://github.com/AndybnACT/GPU-comcot)                     | COMCOT GPU                                                              |
+| 15  | [Awesome GEE](https://github.com/giswqs/Awesome-GEE)                          | Earth Engine Resources                                                   |
+| 16  | [Archivelago Indonesia Marine Library](http://kkp.go.id/)                      | Marine Library KKP                                                       |
+| 17  | [JDIH KKP](https://kkp.go.id/jdih/)                                  | Jaringan Dokumentasi Hukum KKP                                            |
+| 19  | [FishBase](https://www.fishbase.de/)                                 | Fish Base                                                                |
+| 24  | [Peta Geologi Indo](https://geoportal.esdm.go.id                                                       | Peta Geologi Indo                     |
+| 25 | [Marine Copernicus Data Visualization](https://help.marine.copernicus.eu/en/articles/4792430-how-to-open-and-visualize-netcdf-files) | Marine Copernicus Data Visualization                                                                                        |
+| 26 | [Home Page Syncrosim](https://syncrosim.com/)     | Alat untuk pemodelan ekologi pake metode State and Transition Simulation Model            |
+| 27 | [Homepage dari Wallace](https://wallaceecomod.github.io/)    | Alat untuk pemodelan ekologi berbasis R, bisa menggunakan berbagai metode, bisa dipilih, dan recommended untuk yang mau belajar |
+| 28 | [Home Page untuk MOLUSCE](https://github.com/nextgis/qgis_molusce)                             | Plugin QGIS buat land use land change (LULC) modelling     |
+
+
 
 
 List of books that I used as references in many of the practicum. Kenapa buku? karena lebih enak, 1 buku bisa digunakan beberapa kali. Bahkan ada yg lengkap skali sampai asisten bosen liatnya. Tapi bisanya buku-buku ini bahasa inggris, susah cari pdf buku Indonesia
