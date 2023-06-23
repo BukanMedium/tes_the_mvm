@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 read_time: true
 show_date: true
 title: "Starting the adventure"
