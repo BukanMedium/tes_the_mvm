@@ -10,6 +10,8 @@ tags: [References, List, Books, Research]
 author: Shulhan
 github: 0
 ---
+Selama saya kuliah tentu saja banyak cari referensi, bahan, atau sekedar informasi di Internet. 
+Ini adalah beberapa yang sempat saya simpan, dan daripada mengendap, apa ruginya kalo dishare?
 Berikut beberapa link penting yang bisa dimanfaatkan
 
 | No | Link                                                                 | Keterangan                                                       |
@@ -26,4 +28,12 @@ Berikut beberapa link penting yang bisa dimanfaatkan
 | 10  | [Cari data kemunculan spesies](https://mapper.obis.org/)                                                | Untuk cari data kemunculan spesies                                                                                        |
 | 11  | [Kumpulan tutorial pemodelan ekologi](https://sites.google.com/site/thebantalab/tutorials?pli=1)         | Kumpulan tutorial pemodelan ekologi                                                                                       |
 | 12  | [Cari data kemunculan spesies #2](https://www.gbif.org/occurrence/map)                                  | Untuk cari data kemunculan spesies                                                                                        |
+
+| 13   | [COMCOT gfortran](https://github.com/AndybnACT/comcot-gfortran)                                                    | COMCOT gfortran                      |
+| 14   | [COMCOT GPU](https://github.com/AndybnACT/GPU-comcot)                                                               | GPU-comcot offloads the computational component on the outermost layer of COMCOT to Nvidia GPU. Currently, the speed up achieved by parallelized code on GTX-1060 comparing to serial one on AMD-FX8150 is nearly 200X. The code is still under development to fulfill the full functionality of the original model. |
+| 15   | [Earth Engine Resources](https://github.com/giswqs/Awesome-GEE)                                                     | A curated list of Google Earth Engine resources |
+| 16   | [Marine Library KKP](https://archivelago.kkp.go.id/)                                                                 | Online Public Access Catalogue Archivelago Indonesia Marine Library |
+| 17   | [Jaringan Dokumentasi Hukum KKP](https://jdih.kkp.go.id/)                                                            | Jaringan Dokumentasi Hukum KKP        |
+| 18   | [Fish Base](https://www.fishbase.de/)                                                                               | Fish Base                            |
+| 19   | [Peta Geologi Indo](https://geoportal.esdm.go.id/geologi/)                                                          | Peta Geologi Indo                     |
 
