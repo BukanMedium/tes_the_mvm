@@ -16,7 +16,7 @@ Selama saya kuliah tentu saja banyak cari referensi, bahan, atau sekedar informa
 Ini adalah beberapa yang sempat saya simpan, dan daripada mengendap, apa ruginya kalo dishare?
 Berikut beberapa link penting yang bisa dimanfaatkan
 
-Here's a revised version of the table with the provided information:
+
 
 | No  | Link                                                           | Keterangan                                                             |
 | --- | -------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ Here's a revised version of the table with the provided information:
 | 14  | [COMCOT GPU](https://github.com/AndybnACT/GPU-comcot)                     | COMCOT GPU                                                              |
 | 15  | [Awesome GEE](https://github.com/giswqs/Awesome-GEE)                          | Earth Engine Resources                                                   |
 | 16  | [Archivelago Indonesia Marine Library](http://kkp.go.id/)                      | Marine Library KKP                                                       |
-| 17  | [JDIH KKP](https://kkp.go.id/jdih/)                                  | Jaringan Dokumentasi Hukum KKP                                            |
+| 17  | [JDIH KKP]([https://kkp.go.id/jdih/](https://jdih.kkp.go.id/index.php))          | Jaringan Dokumentasi Hukum KKP                                            |
 | 19  | [FishBase](https://www.fishbase.de/)                                 | Fish Base                                                                |
 | 20  | [Peta Geologi Indo](https://geoportal.esdm.go.id)                                                       | Peta Geologi Indo                     |
 | 21 | [Marine Copernicus Data Visualization](https://help.marine.copernicus.eu/en/articles/4792430-how-to-open-and-visualize-netcdf-files) | Marine Copernicus Data Visualization                                                                                        |
