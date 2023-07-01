@@ -22,7 +22,7 @@ The easiest way to run Julia in cloud is by using Julia Hub. In Julia Hub, Julia
 ## in AWS or GCP
 I tried this on Amazon and Google console with Linux. So it's probably just the same as if you want to install Julia in Linux. Here's the code:
 
-'''
+```
 wget https://julialang-s3.julialang.org/bin/linux/x64/1.6/julia-1.8.5-linux-x86_64.tar.gz
 
 tar zxvf julia-1.8.5-linux-x86_64.tar.gz
@@ -37,12 +37,12 @@ sudo ln -s /opt/julia-1.8.5/bin/julia /usr/local/bin/julia
 
 julia
 
-'''
+```
 
 
 To download and upload files from github:
 
-'''
+```
 # Clone the GitHub repository
 git clone https://github.com/BukanMedium/files.git
 
@@ -67,4 +67,4 @@ git commit -m " Add cum_currmap_MAM.tif"
 git push origin main
 
 
-'''
+```
