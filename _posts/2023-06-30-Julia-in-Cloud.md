@@ -1,3 +1,16 @@
+---
+layout: post
+read_time: true
+show_date: true
+title:  Running Julia in the Cloud
+date:   2023-06-30 3:40:00 +07:00
+description: How to run Julia in the cloud.
+img: posts/juliacloud.png 
+tags: [References, cloud computing, Research]
+author: Shulhan
+github: 
+---
+
 [ How To Run Julia in Cloud ]
 
 Even tough julia was made to optimize hyper computation, often times the workload still surpass desktop computer capabilities. Once I tried running omniscape in a gaming pc with ryzen 9 5900x, and the computation process still taking 80 days. To overcome this, I tried cloud computing services like Julia Hub, GCP, AWS, etc. I think this is the right solution because I can access much more powerful machine easily (If you have fine budget, there's this 1TB RAM to up your game)
