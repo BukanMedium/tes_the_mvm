@@ -13,7 +13,7 @@ github:
 
 [ How To Run Julia in Cloud ]
 
-Even tough julia was made to optimize hyper computation, often times the workload still surpass desktop computer capabilities. Once I tried running omniscape in a gaming pc with ryzen 9 5900x, and the computation process still taking 80 days. To overcome this, I tried cloud computing services like Julia Hub, GCP, AWS, etc. I think this is the right solution because I can access much more powerful machine easily (If you have fine budget, there's this 1TB RAM to up your game)
+Even tough julia was made to optimize hyper computation, often times the workload still surpass desktop computer capabilities. Once I tried running omniscape in a gaming pc with ryzen 9 5900x 16gb RAM, and the computation process still taking 80 days. To overcome this, I tried cloud computing services like Julia Hub, GCP, AWS, etc. I think this is the right solution because I can access much more powerful machine easily (If you have fine budget, there's this 1TB RAM to up your game)
 
 ## in Julia Hub
 
