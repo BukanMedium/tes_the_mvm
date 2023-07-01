@@ -22,49 +22,58 @@ The easiest way to run Julia in cloud is by using Julia Hub. In Julia Hub, Julia
 ## in AWS or GCP
 I tried this on Amazon and Google console with Linux. So it's probably just the same as if you want to install Julia in Linux. Here's the code:
 
-```
-wget https://julialang-s3.julialang.org/bin/linux/x64/1.6/julia-1.8.5-linux-x86_64.tar.gz
+```bash
+$ wget https://julialang-s3.julialang.org/bin/linux/x64/1.6/julia-1.8.5-linux-x86_64.tar.gz
 
-tar zxvf julia-1.8.5-linux-x86_64.tar.gz
+$ tar zxvf julia-1.8.5-linux-x86_64.tar.gz
 
-export PATH="$PATH:/home/shlhnj/julia-1.8.5/bin"
+$ export PATH="$PATH:/home/shlhnj/julia-1.8.5/bin"
 
-source ~/.bashrc
+$ source ~/.bashrc
 
-sudo mv julia-1.8.5/ /opt/
+$ sudo mv julia-1.8.5/ /opt/
 
-sudo ln -s /opt/julia-1.8.5/bin/julia /usr/local/bin/julia
+$ sudo ln -s /opt/julia-1.8.5/bin/julia /usr/local/bin/julia
 
-julia
+$ julia
 
 ```
 
 
 To download and upload files from github:
 
-```
+```bash
+# Install git
+$ sudo yum install git
+
 # Clone the GitHub repository
-git clone https://github.com/BukanMedium/files.git
+$ git clone https://github.com/BukanMedium/files.git
+
+# Check the present working directory
+$ pwd
+
+# list files in directory
+$ ls
 
 # Navigate to the directory containing the files you want to export
 cd SON
 
 # Copy the files to the local repository on your AWS shell instance
-cp "cum_currmap.tif" /home/ec2-user/files
+$ cp "cum_currmap.tif" /home/ec2-user/files
 
 
 
 # Add the files to the staging area
-git add cum_currmap_MAM.tif
+$ git add cum_currmap_MAM.tif
 
 
 # Commit the changes
-git commit -m " Add cum_currmap_MAM.tif"
+$ git commit -m " Add cum_currmap_MAM.tif"
 
 
 
 # Push the changes to the remote GitHub repository
-git push origin main
+$ git push origin main
 
 
 ```
