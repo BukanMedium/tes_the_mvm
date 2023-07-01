@@ -9,6 +9,7 @@ img: posts/juliacloud.png
 tags: [References, cloud computing, Research]
 author: Shulhan
 github: 
+comments: true
 ---
 
 [ How To Run Julia in Cloud ]
