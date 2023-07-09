@@ -1,4 +1,16 @@
-How to process gps tagged animal data
+
+---
+layout: post
+read_time: true
+show_date: true
+title:  Bias
+date:   2023-07-09 13:04:00 
+description: Pengolahan Data Tracking GPS 
+img: posts/GPS Tracking.jpg 
+tags: [Thoughts, Research]
+author: Shulhan
+github: 
+---
 
 
 Time Elapsed inside a Grid Cell
@@ -75,14 +87,15 @@ penghitungan lebih lanjut dapat dilakukan untuk menghitung jarak yang ditempuh m
 Tahap selanjutnya adalah membuat garis yang menghubungkan antara dua 2 titik dalam waktu yang berurutan.
 Ini dilakukan untuk menghitung jarak antar titik, dan digunakan untuk tahapan pengolahan selanjtunya.
 Pembuatan garis ini dilakukan menggunakan software GIS.
+![Point to Line](./assets/img/posts/20230709/pointtoline.jpg)
 
 
 ## Kalkulasi 2
 Kalkulasi ini menghitung jumlah waktu yang dihabiskan dalam suatu grid (suatu area).
 1. Buat shapefile grid denan luas tertentu, misal 10x10 km atau 1x1 derajat
 2. Potong shapefile garis yang tadi telah dibuat dengan shapefile grid (intersect)
+![Kalkulasi Rasio Line](./assets/img/posts/20230709/Linegridratio.jpg)
 3. Hitung rasio dari garis yang berada dalam suatu grid dengan panjang garis. Dalam contoh ini, garis L3 berada dalam 2 grid, yaitu grid A dan Grid B.
 L3 yang berada dalam grid A adalah x, dan L3 yang berada dalam grid B adalah y. Maka untuk mengitung rasio x adalah x/l3 dan y adalah y/l3. 
 4. Hitung rasio waktu dengan mengalikan waktu yang ditempuh dengan rasio pada langkah 3
 5. Lakukan summary statistics untuk menghitung jumlah waktu yang ada dalam grid
-
