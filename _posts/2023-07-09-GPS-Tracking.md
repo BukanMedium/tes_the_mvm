@@ -3,9 +3,9 @@ layout: post
 read_time: true
 show_date: true
 title:  Time Elapsed inside a Grid Cell
-date:   2023-07-09 13:04:00 
+date:   2023-07-09 13:04:00 +0700
 description: Pengolahan Data Tracking GPS. Menghitung Waktu yang dihabiskan didalam suatu grid cell.  Counting time elapsed inside a grid cell of gps tracked animal movement data
-img: posts/GPS Tracking.jpg 
+img: posts/GPSTracking.jpg 
 tags: [Thoughts, Research]
 author: Shulhan
 github: 
