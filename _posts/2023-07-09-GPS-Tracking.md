@@ -21,16 +21,18 @@ Ada beberapa langkah yang bisa dilakukan:
 
 ## Filtering
 Filtering berguna untuk menghilangkan data-data yang error atau rusak.
-Contohnya seperti apabila hewan yang ditag adalah hewan aquatik, akan tetapi data yang diperoleh menunjukkan koordinat pada daratan. Ini merupakan suatu hal yang tidak mungkin, sehingga perlu dilakukan filtering atau mgenhilangkan data error tersebut.
-Contoh lainnya apabila ada pecatatan waktu yang sama dalam koordinat yang berbeda. Ini juga merupakan suatu hal yang tidak mungkin, kecuali hewan tersebut membelah diri, dan gpsnya juga membelah diri jadi dua.
+Contohnya seperti apabila hewan yang ditag adalah hewan aquatik, akan tetapi data yang diperoleh menunjukkan koordinat pada daratan. Ini merupakan suatu hal yang tidak mungkin, sehingga perlu dilakukan filtering atau menghilangkan data error tersebut.
+Contoh lainnya apabila ada pencatatan waktu yang sama dalam koordinat yang berbeda. Ini juga merupakan suatu hal yang tidak mungkin, kecuali hewan tersebut membelah diri, dan gpsnya juga membelah diri jadi dua.
 Apabila ada data dengan waktu yang sama dengan koordinat yang sama, ini juga harus dihapus salah satunya.
 
 ### Spatial filtering   
-atau filtering terhadap ruang (contoh 1) dapat dilakukan dengan menggunakan software GIS seperti Qgis atau Arcgis, dan melihat apakah titik koordinat pencatatan sudah sesuai atau belum (hewan laut berada di laut, hewan darat berada di darat).
-Jika belum, maka data-data yang tidak sesuai tersebut bisa dihilangkan.
+Filtering terhadap ruang (contoh 1) dapat dilakukan dengan menggunakan software GIS seperti Qgis atau Arcgis, dan melihat apakah titik koordinat pencatatan sudah sesuai atau belum (hewan laut berada di laut, hewan darat berada di darat).
+Jika belum, maka data-data yang tidak sesuai tersebut bisa dihilangkan.  
+Contoh:  
+![Spatial Filtering](./assets/img/posts/20230709/spatialfiltering.jpg)
 
 ### Temporal filtering  
-atau filtering terhadap waktu (contoh 2) dapat dilakukan dengan menggunakan software pengolah data angka seperti MS Excell, dan melihat apakah ada waktu yang sama pada koordinat yang berbeda atau pada koordinat yang sama.
+Filtering terhadap waktu (contoh 2) dapat dilakukan dengan menggunakan software pengolah data angka seperti MS Excell, dan melihat apakah ada waktu yang sama pada koordinat yang berbeda atau pada koordinat yang sama.
 Apabila pada koordinat yang sama, maka gunakan salah satunya.
 Contoh:
 | No   | Time      | Latitude  | Longitude |
