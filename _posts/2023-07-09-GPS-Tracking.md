@@ -34,7 +34,8 @@ Contoh:
 ### Temporal filtering  
 Filtering terhadap waktu (contoh 2) dapat dilakukan dengan menggunakan software pengolah data angka seperti MS Excell, dan melihat apakah ada waktu yang sama pada koordinat yang berbeda atau pada koordinat yang sama.
 Apabila pada koordinat yang sama, maka gunakan salah satunya.
-Contoh:
+Contoh:  
+
 | No   | Time      | Latitude  | Longitude |
 |------|-----------|-----------|-----------|
 | 1    | 09:05 AM  | 34.0522° N | 118.2437° W |
@@ -66,7 +67,8 @@ Data diurutkan dari waktu paling awal hingga paling akhir.
 ## Kalkulasi 1
 Data yang telah disorting, kini dapat estimasi waktu yang diperlukan oleh hewan untuk bergerak dari satu titik ke titik selanjutnya.
 Penghitungan dilakukan dengan cara mengurangi waktu yang lebih akhir dengan waktu yang lebih awal.
-Contoh: 
+Contoh:  
+
 | No   | Time      | Latitude  | Longitude |
 |------|-----------|-----------|-----------|
 | 1    | 09:00 AM  | 37.7749° N | 122.4194° W |
@@ -75,7 +77,8 @@ Contoh:
 | 4    | 09:15 AM  | 51.5074° N | 0.1278° W   |
 | 5    | 09:20 AM  | 35.6895° N | 139.6917° W |
 
-setelah dihitung lama waktunya:
+setelah dihitung lama waktunya:  
+
 | ID   | Time      | Latitude  | Longitude | Elapsed Time |
 |------|-----------|-----------|-----------|--------------|
 | 1    | 09:00 AM  | 37.7749° N | 122.4194° W |              |
@@ -97,7 +100,7 @@ Pembuatan garis ini dilakukan menggunakan software GIS.
 Kalkulasi ini menghitung jumlah waktu yang dihabiskan dalam suatu grid (suatu area).
 1. Buat shapefile grid denan luas tertentu, misal 10x10 km atau 1x1 derajat
 2. Potong shapefile garis yang tadi telah dibuat dengan shapefile grid (intersect)
-![Kalkulasi Rasio Line](./assets/img/posts/20230709/Linegridratio.jpg)
+![Kalkulasi Rasio Line](./assets/img/posts/20230709/linegridratio.jpg)
 3. Hitung rasio dari garis yang berada dalam suatu grid dengan panjang garis. Dalam contoh ini, garis L3 berada dalam 2 grid, yaitu grid A dan Grid B.
 L3 yang berada dalam grid A adalah x, dan L3 yang berada dalam grid B adalah y. Maka untuk mengitung rasio x adalah x/l3 dan y adalah y/l3. 
 4. Hitung rasio waktu dengan mengalikan waktu yang ditempuh dengan rasio pada langkah 3
