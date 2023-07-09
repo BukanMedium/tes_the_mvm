@@ -12,8 +12,8 @@ github:
 ---
 
 
-Time Elapsed inside a Grid Cell
-Menghitung Waktu yang dihabiskan didalam suatu grid cell.
+Time Elapsed inside a Grid Cell  
+Menghitung Waktu yang dihabiskan didalam suatu grid cell.  
 
 Biasanya dilakukan dalam mengolah data tracking GPS.
 Hal ini juga sangat penting apabila inging melakukan analisis dalam pergerakan hewan yang ditrack menggunakan GPS.
