@@ -13,10 +13,10 @@ github:
 
 
 Time Elapsed inside a Grid Cell  
-Menghitung Waktu yang dihabiskan didalam suatu grid cell.  
+Menghitung Waktu yang dihabiskan di dalam suatu grid cell.  
 
 Biasanya dilakukan dalam mengolah data tracking GPS.
-Hal ini juga sangat penting apabila inging melakukan analisis dalam pergerakan hewan yang ditrack menggunakan GPS.
+Hal ini juga sangat penting apabila ingin melakukan analisis dalam pergerakan hewan yang ditrack menggunakan GPS.
 Ada beberapa langkah yang bisa dilakukan:
 
 ## Filtering
@@ -30,6 +30,7 @@ Filtering terhadap ruang (contoh 1) dapat dilakukan dengan menggunakan software 
 Jika belum, maka data-data yang tidak sesuai tersebut bisa dihilangkan.  
 Contoh:  
 ![Spatial Filtering](./assets/img/posts/20230709/spatialfiltering.jpg)
+Pada contoh gambar diatas, titik 6 berada di daratan sehingga harus dihapus
 
 ### Temporal filtering  
 Filtering terhadap waktu (contoh 2) dapat dilakukan dengan menggunakan software pengolah data angka seperti MS Excell, dan melihat apakah ada waktu yang sama pada koordinat yang berbeda atau pada koordinat yang sama.
@@ -58,11 +59,10 @@ Data diurutkan dari waktu paling awal hingga paling akhir.
 | No   | Time      | Latitude  | Longitude |
 |------|-----------|-----------|-----------|
 | 1    | 09:00 AM  | 37.7749° N | 122.4194° W |
-| 2    | 09:05 AM  | 35.0478° N | 110.2437° W |
-| 3    | 09:05 AM  | 34.0522° N | 118.2437° W |
-| 4    | 09:10 AM  | 40.7128° N | 74.0060° W  |
-| 5    | 09:15 AM  | 51.5074° N | 0.1278° W   |
-| 6    | 09:20 AM  | 35.6895° N | 139.6917° W |
+| 2    | 09:05 AM  | 34.0522° N | 118.2437° W |
+| 3    | 09:10 AM  | 40.7128° N | 74.0060° W  |
+| 4    | 09:15 AM  | 51.5074° N | 0.1278° W   |
+| 5    | 09:20 AM  | 35.6895° N | 139.6917° W |
 
 ## Kalkulasi 1
 Data yang telah disorting, kini dapat estimasi waktu yang diperlukan oleh hewan untuk bergerak dari satu titik ke titik selanjutnya.
