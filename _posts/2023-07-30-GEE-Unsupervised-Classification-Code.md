@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title:  Unsupervised Classification in Google Earth Engine
-date:   2023-07-30 14:54:20 
+date:   2023-07-30 14:54:20 +0700
 description: To share my little knowledge abot GEE
 img: posts/20230730/GEE-falsecolor.png
 tags: [coding, javascript, GEE, Sentinel-2]
