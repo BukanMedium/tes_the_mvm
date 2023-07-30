@@ -5,7 +5,7 @@ show_date: true
 title:  Unsupervised Classification in Google Earth Engine
 date:   2023-07-30 14:54:20 
 description: To share my little knowledge abot GEE
-img: posts/20210210/Game_of_Life.jpg
+img: posts/20230730/GEE-falsecolor.png
 tags: [coding, javascript, GEE, Sentinel-2]
 author: Shlhn
 github: 
