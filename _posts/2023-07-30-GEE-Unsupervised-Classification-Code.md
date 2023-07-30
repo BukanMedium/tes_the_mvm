@@ -177,4 +177,4 @@ Export.image.toDrive({
 });
 ```
 
-(Click here to see the code in GEE)[https://code.earthengine.google.com/bf602fc609a1f98f086b7f277bde8b27]
+[Click here to see the code in GEE](https://code.earthengine.google.com/bf602fc609a1f98f086b7f277bde8b27)
