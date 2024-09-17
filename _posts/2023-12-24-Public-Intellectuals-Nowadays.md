@@ -1,5 +1,5 @@
 ---
-layout: post
+layout://((post))
 read_time: true
 show_date: true
 title:  Public Intellectuals Nowadays 
